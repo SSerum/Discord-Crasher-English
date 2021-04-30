@@ -1,5 +1,5 @@
 # Discord Crasher Bot/DCB
-# English Translation 
+# English Translation - SSerum
 # INSTALLATiON
 ```
 sudo apt install python3 python3-pip
@@ -23,9 +23,9 @@ Done! The bot must be online
 Attention: The author does not take responsibility for the actions you have taken, so there is no need to write something like "oh, I made myself problems" in tg
 Telegram author for communication: @ professional12344
 Tsmok everyone;)
-#          _____ _____ 
-#        / ____/ ____|
-#  _____| (___| (___  
-# |______\___ \\___ \ 
-#        ____) |___) |
-#       |_____/_____/ 
+          _____ _____ 
+        / ____/ ____|
+  _____| (___| (___  
+ |______\___ \\___ \ 
+        ____) |___) |
+       |_____/_____/ 
