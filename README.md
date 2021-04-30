@@ -1,5 +1,5 @@
 # Discord Crasher Bot/DCB
-# Установка
+# INSTALLATiON
 ```
 sudo apt install python3 python3-pip
 pip3 install discord
@@ -8,19 +8,17 @@ pip3 install requests
 git clone https://github.com/Empty774/discord_crasher
 cd discord_crasher
 ```
-# Запуск 
-Для начала отредактируйте файл modded.py, и в самом конце найдите строку
+# Launch 
+First, edit the modded.py file, and at the very end, find the line
 ```
 client.run('токен сюда')
 ```
-Где написанно 'токен сюда' вставьте токен своего бота, не удаляя кавычки.
-
-Далее сохраните изменения и пропишите 
+Where it says 'token here' insert your bot's token without removing the quotes.
+Then save the changes and write
 ```
 python3 modded.py
 ```
-Готово! Бот должен быть онлайн
-
-Внимание: Автор не берет на себя ответственность за совершенные вами действия, поэтому не надо в тг писать что-то по типу "ой, я нажил себе проблем"
-Телеграмм автора для связи: @professional12344
-Всем цмок ;)
+Done! The bot must be online
+Attention: The author does not take responsibility for the actions you have taken, so there is no need to write something like "oh, I made myself problems" in tg
+Telegram author for communication: @ professional12344
+Tsmok everyone;)
